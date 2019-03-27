@@ -2,10 +2,10 @@
 
 ### Hosted by
 
-| *Joey McCord*  | *Steven McCord* |
-| :----------- | -------------:|
-|<img src="https://media.licdn.com/dms/image/C4E03AQF-D6w595l4kA/profile-displayphoto-shrink_200_200/0?e=1559174400&v=beta&t=sEuhaOHjOZ-Zf8LEye0LWVzGzjtqCjZtJOxsPG-U-0Q" width="100">|<img src="https://media.licdn.com/dms/image/C5603AQEP3ute45TG2g/profile-displayphoto-shrink_800_800/0?e=1559174400&v=beta&t=3WmjrPoRkdpREPKB7KF-cXdXddaMW95_Z3BO8_Z5ECI" width="100">|
-|<a href="https://www.linkedin.com/in/joeymccord/"><img src="./public/linkedin.png" width="26"></a>|<a href="https://www.linkedin.com/in/stevenamccord/"><img src="./public/linkedin.png" width="26"></a>|
+ *Joey McCord*  | *Steven McCord* 
+ :- | -:
+<img src="https://media.licdn.com/dms/image/C4E03AQF-D6w595l4kA/profile-displayphoto-shrink_200_200/0?e=1559174400&v=beta&t=sEuhaOHjOZ-Zf8LEye0LWVzGzjtqCjZtJOxsPG-U-0Q" width="100">|<img src="https://media.licdn.com/dms/image/C5603AQEP3ute45TG2g/profile-displayphoto-shrink_800_800/0?e=1559174400&v=beta&t=3WmjrPoRkdpREPKB7KF-cXdXddaMW95_Z3BO8_Z5ECI" width="100">|
+<a href="https://www.linkedin.com/in/joeymccord/"><img src="./public/linkedin.png" width="26"></a>|<a href="https://www.linkedin.com/in/stevenamccord/"><img src="./public/linkedin.png" width="26"></a>
 
 ### Our Vision
 Become the driving force in the way innovation is promoted, products are built and talent is recognized in the DMV
