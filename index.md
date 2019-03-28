@@ -1,9 +1,4 @@
-<h1 align="center"><img align="bottom" src="./public/logo.png" alt="Modular CTO" width="40"/>Modular CTO</H1>
-
 ### Hosted by
-
-  
- 
 <a href="https://www.linkedin.com/in/joeymccord/" style="color:grey">*Joey McCord*  <img src="./public/linkedin.png" width="13"></a>
 
 <a href="https://www.linkedin.com/in/stevenamccord/" style="color:grey">*Steven McCord*  <img src="./public/linkedin.png" width="13"></a>
