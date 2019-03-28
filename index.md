@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 ### Hosted by
 <a href="https://www.linkedin.com/in/joeymccord/" style="color:grey">*Joey McCord*  <img src="./public/linkedin.png" width="13"></a>
 
